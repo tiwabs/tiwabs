@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @tiwabs
 - 👀 I’m interested in modeling, JS, Lua
-- 📫 How to reach me Tiwabs#6666 on Discord
